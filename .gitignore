@@ -1,0 +1,10 @@
+app/bootstrap*
+
+vendor/*
+*/logs/*
+*/caches/*
+web/uploods/*
+web/bundles/*
+
+#configuration files
+app/config/parameters.yml
